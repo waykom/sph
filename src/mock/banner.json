@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "imgUrl": "/vue2/images/banner1.jpg"
+  },
+  {
+    "id": "2",
+    "imgUrl": "/vue2/images/banner2.jpg"
+  },
+  {
+    "id": "3",
+    "imgUrl": "/vue2/images/banner3.jpg"
+  },
+  {
+    "id": "4",
+    "imgUrl": "/vue2/images/banner4.jpg"
+  }
+]
